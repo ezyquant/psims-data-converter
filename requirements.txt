@@ -1,0 +1,7 @@
+pandas~=1.4
+sqlalchemy~=1.4
+pyodbc~=4.0
+python-dotenv~=0.21
+
+isort
+black
